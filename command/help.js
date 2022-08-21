@@ -238,7 +238,7 @@ ${mundur}
  • ${prefix}addsewa
  • ${prefix}delsewa${petik}
 
-*ASUPAN MENU*${petik}
+*JAN DIPAKE MENU*${petik}
  • ${prefix}chika
  • ${prefix}delvira
  • ${prefix}ayu
@@ -266,7 +266,7 @@ ${mundur}
  • ${prefix}baka
  • ${prefix}smug
  • ${prefix}neko_sfw
- • ${prefix}hentai_gif
+ • ${prefix}hentgif
  • ${prefix}spank
  • ${prefix}blowjob
  • ${prefix}cumarts
@@ -280,27 +280,27 @@ ${mundur}
  • ${prefix}feetgif
  • ${prefix}femdom
  • ${prefix}futanari
- • ${prefix}hentai
+ • ${prefix}heh
  • ${prefix}holoero
  • ${prefix}holo
  • ${prefix}keta
  • ${prefix}kitsune
  • ${prefix}kemonomimi
- • ${prefix}pussyart
- • ${prefix}pussywankgif
+ • ${prefix}puyart
+ • ${prefix}puywankgif
  • ${prefix}girl_solo
  • ${prefix}girl_solo_gif
  • ${prefix}tits
  • ${prefix}trap
- • ${prefix}yuri
+ • ${prefix}yur
  • ${prefix}avatar2
  • ${prefix}anal
  • ${prefix}bj
  • ${prefix}boobs
- • ${prefix}classic
+ • ${prefix}class
  • ${prefix}cumsluts
  • ${prefix}kuni
- • ${prefix}lesbian
+ • ${prefix}lesbgangi
  • ${prefix}neko
  • ${prefix}neko_gif
  • ${prefix}ahegao
@@ -455,7 +455,7 @@ ${mundur}
  • ${prefix}3dbox
  • ${prefix}neon2
  • ${prefix}roadw
- • ${prefix}bokeh
+ • ${prefix}boke
  • ${prefix}gneon
  • ${prefix}advanced
  • ${prefix}dropwater
